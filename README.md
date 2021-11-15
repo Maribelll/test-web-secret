@@ -15,4 +15,4 @@
 
 Ссылка на дэплой:
 
-https://romantic-meitner-1db1fb.netlify.app/
+https://test-web-secret.netlify.app/
